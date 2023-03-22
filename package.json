@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "developer": "npx tailwindcss -i ./src/input.css -o ./dist/css/output.css --watch",
+    "production": "npx tailwindcss -i ./src/input.css -o ./dist/css/output.css --minify"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.4",
+    "prettier-plugin-tailwindcss": "^0.2.4",
+    "tailwindcss": "^3.2.7"
+  },
+  "dependencies": {
+    "aos": "^2.3.4"
+  }
+}

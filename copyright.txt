@@ -1,0 +1,6 @@
+Dibuat menggunakan:
+1. HTML
+2. JavaScript
+3. Tailwind CSS v3.2.7
+4. Animate On Scroll Library
+© RPB 2023
